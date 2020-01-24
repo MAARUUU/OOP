@@ -1,0 +1,65 @@
+#include <iostream>
+#include <fstream>
+#include <QTextStream>
+#include <QFile>
+#include <stdlib.h>
+#include <stdio.h>
+#include "my_module.h"
+
+
+float create_array(unsigned n, double *a)//создаем массив, n-число эл-тов
+{
+    int i;
+    for (i=0;i<n;i++)
+    {
+        a[i]=rand()%25;
+    }
+    return 0;
+}
+
+//работа с файлами
+
+int array_file(unsigned n,double *a,std::string fname) //запись данных в файл
+{
+    int i=0;
+std::ofstream fout;
+fout.open(fname);
+if(fout.is_open()){
+    for (i=0;i<n;i++)
+{
+    fout<<a[i];
+    fout<<" ";
+}
+}
+fout.close();
+return  EXIT_SUCCESS;
+}
+
+
+float file_array(unsigned n,std::string fname) //чтение данных из файла
+{
+    int i=0;
+    int k=0; char str[256];
+    double *a;
+    
+    
+std::ifstream f;
+f.open(fname);
+
+if (f.is_open())
+    while (!f.eof())
+    {
+        if(fgets(str,256,fname))
+            k++;
+    }
+std::cout<<k;
+
+    {
+for(i=0;i<n;i++)
+{
+    f>>a[i];
+}
+f.close();
+}
+return 0;
+}

@@ -1,0 +1,9 @@
+#ifndef MY_MODULE_H
+#define MY_MODULE_H
+
+#endif // MY_MODULE_H
+using namespace std; 
+
+float create_array(unsigned n, double *a);
+int array_file(unsigned n,double *a);
+float file_array(unsigned n,string fname);

@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Circle.cpp
+F:\лаб 4\class shape\class shape\Circle.cpp(36,14): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+  class shape.cpp
+  Rectangle.cpp
+F:\лаб 4\class shape\class shape\Circle.cpp(42,15): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+F:\лаб 4\class shape\class shape\Rectangle.cpp(61,29): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+  Shape.cpp
+  Square.cpp
+F:\лаб 4\class shape\class shape\Rectangle.cpp(67,13): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+F:\лаб 4\class shape\class shape\Square.cpp(49,13): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+  class shape.vcxproj -> F:\лаб 4\class shape\Debug\class shape.exe
