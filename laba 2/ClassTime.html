@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MarkdownPad Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+
+</style>
+</head>
+<body>
+<h2>ClassTime</h2>
+<p><strong>ClassTime</strong> - класс, который представляет время </p>
+<pre><code>   #include&quot;ClassTime.h&quot;`
+</code></pre>
+
+<hr />
+<h2>Подробное описание</h2>
+<p>ClassTime имеет три поля:</p>
+<ul>
+<li><em>часы</em></li>
+<li><em>минуты</em></li>
+<li>
+<p><em>секунды</em></p>
+<p>int hours, minutes, seconds; </p>
+</li>
+</ul>
+<p>Объявления и описания членов данного класса находятся в файлах:</p>
+<ul>
+<li>ClassTime.h </li>
+<li>ClassTime.cpp</li>
+</ul>
+<h4>Функции</h4>
+<hr />
+<p><code>void</code> <strong>overflow_seconds</strong>();</p>
+<p><code>void</code> <strong>overflow_minutes</strong>();</p>
+<p><code>void</code> <strong>overflow_hours</strong>();</p>
+<p><code>void</code> <strong>set_seconds</strong>(int seconds1);</p>
+<p><code>void</code> <strong>set_minutes</strong>(int minutes1);</p>
+<p><code>void</code> <strong>set_hours</strong>(int hours1);</p>
+<p><code>void</code> <strong>set_time</strong>(int hours1, int minutes1, int seconds1);</p>
+<p><code>void</code> <strong>print_time</strong>(const ClassTime &amp;t); </p>
+<p><code>ClassTime</code><strong>operator +</strong>(const ClassTime&amp; t);</p>
+<p><code>ClassTime</code> <strong>operator -</strong>(const ClassTime&amp; t);</p>
+<p><code>void</code> <strong>add_seconds</strong>(unsigned int s);</p>
+<p><code>void</code> <strong>add_minutes</strong>(unsigned int m);</p>
+<p><code>void</code> <strong>add_hours</strong>(unsigned int h);</p>
+<p><code>void</code> <strong>add_time</strong>(int hours1, int minutes1, int seconds1);</p>
+<p><code>string</code> <strong>toStr</strong>();</p>
+<p><code>float</code> <strong>mintohours</strong>(int m);</p>
+<p><code>float</code> <strong>mintoseconds</strong>(int m);</p>
+<p><code>float</code> <strong>hourstomin</strong>(int h);</p>
+<p><code>float</code> <strong>hourstoseconds</strong>(int h);</p>
+<p><code>float</code> <strong>secondstomin</strong>(int s);</p>
+<p><code>float</code> <strong>secondstohours</strong>(int s);</p>
+<p><code>float</code> <strong>translate_minutes</strong>(ClassTime a);</p>
+<p><code>float</code> <strong>translate_seconds</strong>(ClassTime a);</p>
+<p><code>float</code> <strong>translate_hours</strong>(ClassTime a);</p>
+<p><code>bool</code> <strong>operator ==</strong> (const ClassTime&amp; w);</p>
+<p><code>bool</code> <strong>operator !=</strong>(const ClassTime&amp; w);</p>
+<p><code>bool</code> <strong>operator &gt;</strong> (const ClassTime&amp; w);</p>
+<p><code>bool</code> <strong>operator &lt;</strong> (const ClassTime&amp; w);</p>
+<p><code>bool</code> <strong>operator &lt;=</strong> (const ClassTime&amp; w);</p>
+<p><code>bool</code> <strong>operator &gt;=</strong> (const ClassTime&amp; w);</p>
+<hr />
+<h3>Описание функций</h3>
+<h2>ClassTime()</h2>
+<p>Конструктор по умолчанию.</p>
+<h2>ClassTime(int hours1, int minutes1, int seconds1)</h2>
+<p>Конструктор со значениями.</p>
+<h2>void overflow_seconds()</h2>
+<p>Проверяет переполнение в разряде секунд, если переполнение есть, то прибавляет переполнение к старшему разряду.</p>
+<h2>void overflow_minutes()</h2>
+<p>Проверяет переполнение в разряде минут, если переполнение есть, то прибавляет переполнение к старшему разряду.	</p>
+<h2>void overflow_hours()</h2>
+<p>Проверяет переполнение в разряде часов, если переполнение есть, то присваивает остаток от деления к часам.</p>
+<h2>void set_seconds(int seconds1)</h2>
+<p>Устанавливает значение секунд.</p>
+<h2>void set_minutes(int minutes1)</h2>
+<p>Устанавливает значение минут.</p>
+<h2>void set_hours(int hours1)</h2>
+<p>Устанавливает значение часов.</p>
+<h2>void set_time(int hours1, int minutes1, int seconds1)</h2>
+<p>Устанавливает одновременно часы, минуты, секунды без проверки.</p>
+<h2>void print_time(const ClassTime &amp;t)</h2>
+<p>Выводит на экран время. </p>
+<h2>ClassTime operator + (const ClassTime&amp; t)</h2>
+<p>Выполняет сложение двух объектов.</p>
+<h2>ClassTime operator - (const ClassTime&amp; t)</h2>
+<p>Выполняет вычитание двух объектов.</p>
+<h2>void add_seconds(unsigned int s)</h2>
+<p>Добавляет секунды.</p>
+<h2>void add_minutes(unsigned int m)</h2>
+<p>Добавляет минуты.</p>
+<h2>void add_hours(unsigned int h)</h2>
+<p>Добавляет часы.</p>
+<h2>void add_time(int hours1, int minutes1, int seconds1)</h2>
+<p>Добавляет часы, минуты и секунды.</p>
+<h2>string toStr()</h2>
+<p>Преобразует данные в строку.</p>
+<h2>float mintohours(int m)</h2>
+<p>Переводит минуты в часы.</p>
+<h2>float mintoseconds(int m)</h2>
+<p>Переводит минуты в секунды.</p>
+<h2>float hourstomin(int h)</h2>
+<p>Переводит часы в минуты.</p>
+<h2>float hourstoseconds(int h)</h2>
+<p>Переводит часы в секунды.</p>
+<h2>float secondstomin(int s)</h2>
+<p>Переводит секунды в минуты.</p>
+<h2>float secondstohours(int s)</h2>
+<p>Переводит секунды в часы.</p>
+<h2>float translate_minutes(ClassTime a)</h2>
+<p>Переводит время в минуты.</p>
+<h2>float translate_seconds(ClassTime a)</h2>
+<p>Переводит время в секунды.</p>
+<h2>float translate_hours(ClassTime a)</h2>
+<p>Переводит время в часы.</p>
+<h2>bool operator == (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если объекты равны; ложь в противном случае.</p>
+<h2>bool operator != (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если объекты неравны ; ложь в противном случае.</p>
+<h2>bool operator &gt; (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если один объект больше другого; ложь в противном случае.</p>
+<h2>bool operator &lt; (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если один объект меньше другого; ложь в противном случае.</p>
+<h2>bool operator &lt;= (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если один объект равен или больше другого; ложь в противном случае.</p>
+<h2>bool operator &gt;= (const ClassTime&amp; w)</h2>
+<p>Возвращает, true если один объект равен или меньше другого; ложь в противном случае.</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

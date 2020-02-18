@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\Time_1\Time_1\bin\Debug\Time_1.exe.config
+C:\Users\Пользователь\Desktop\Time_1\Time_1\bin\Debug\Time_1.exe
+C:\Users\Пользователь\Desktop\Time_1\Time_1\bin\Debug\Time_1.pdb
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.Form1.resources
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.exe
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.pdb
+C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.csprojAssemblyReference.cache

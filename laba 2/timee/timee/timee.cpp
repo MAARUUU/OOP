@@ -46,6 +46,9 @@ int main()
 	z_time.print_time(z_time);
 
 
+	
+
+
 	//массив из объектов
 	unsigned n = 4;
 	vector<ClassTime> elArray(4);

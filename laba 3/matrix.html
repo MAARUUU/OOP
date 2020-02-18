@@ -1,0 +1,144 @@
+<title>Class Matrix</title>
+<body style="background-color:rgb(145, 253, 142);"></body>
+<h1>Class Matrix</h1>
+<p><i>Class Matrix</i> - это класс, представляющий матрицу. <a href="#C4">Подробнее..</a></p>
+<blockquote>
+    #include"ClassTime.h"
+</blockquote>
+
+<h2><a name="C4">Подробное описание</a></h2>
+
+        <p> Объявления и описания членов данного класса находятся в файлах:</p>
+    <p>Matrix.h</p>
+    <p>Matrix.cpp</p>
+
+<b>Методы:</b>
+<table>
+        <tr>
+                <td></td>
+                <td style="background-color: yellow"> Matrix()</td>
+                </tr>
+        <tr>
+          <td></td>
+          <td style="background-color: yellow">Matrix(unsigned k)</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td style="background-color: yellow">Matrix(unsigned n, unsigned m)</td>
+        </tr>
+        <tr>
+            <td>void</td>
+            <td style="background-color: yellow">fill_random()</td>
+            </tr>
+            <tr>
+                    <td>void</td>
+                    <td style="background-color: yellow">fill_number(float number)</td>
+                    </tr>
+                    <tr>
+                         <td>Matrix</td>
+                        <td style="background-color: yellow"> operator + (const Matrix &b)const</td>
+                            </tr>
+                            <tr>
+                                    <td>Matrix</td>
+                                    <td style="background-color: yellow"> operator += (const Matrix &b)</td>
+                                    </tr>
+                                    <tr>
+                                            <td>Matrix</td>
+                                            <td style="background-color: yellow"> operator - (const Matrix &b)const</td>
+                                            </tr>    
+                                            <tr>
+                                                    <td>Matrix</td>
+                                                    <td style="background-color: yellow"> operator -= (const Matrix &b)</td>
+                                                    </tr>
+                                                    <tr>
+                                                            <td>Matrix</td>
+                                                            <td style="background-color: yellow"> operator * (const Matrix &b)const</td>
+                                                            </tr>
+                                                            <tr>
+                                                                    <td>Matrix</td>
+                                                                    <td style="background-color: yellow"> operator * (float n)</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                            <td>Matrix</td>
+                                                                            <td style="background-color: yellow"> operator *= (const Matrix &b)</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                    <td>void</td>
+                                                                                    <td style="background-color: yellow"> transpose() </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                            <td>void</td>
+                                                                                            <td style="background-color: yellow"> diagonal() </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                    <td>void</td>
+                                                                                                    <td style="background-color: yellow"> print() </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                            <td>float</td>
+                                                                                                            <td style="background-color: yellow"> Determinant_matr1x1() </td>
+                                                                                                            </tr>
+                                                                                                            <tr>
+                                                                                                                    <td>float</td>
+                                                                                                                    <td style="background-color: yellow"> Determinant_matr2x2() </td>
+                                                                                                                    </tr>
+                                                                                                                    <tr>
+                                                                                                                            <td>float</td>
+                                                                                                                            <td style="background-color: yellow"> Determinant_matr3x3() </td>
+                                                                                                                            </tr>
+                                                                                            
+                                </table>
+                                <h2>Описание методов</h2>
+                                <h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;">Matrix()</u><h3></h3>
+<p>Конструктор по умолчанию.</p>
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;">Matrix(unsigned k)</u><h3></h3>
+<p>Конструктор со значениями.</p>
+                                <h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;">Matrix(unsigned n, unsigned m)</u><h3></h3>
+<p>Конструктор со значениями.</p>
+                                <h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> void fill_random()</u><h3></h3>
+<p>Заполняет матрицу случайными числами.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> void fill_number(float number)</u><h3></h3>
+<p>Заполнение матрицы одним числом.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator + (const Matrix &b)const</u><h3></h3>
+<p>Выполняет сложение матриц.</p>
+ 
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator += (const Matrix &b)</u><h3></h3>
+<p>Выполняет сложение матриц.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator - (const Matrix &b)const</u><h3></h3>
+<p>Выполняет вычитание матриц.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator -= (const Matrix &b)</u><h3></h3>
+<p>Выполняет вычитание матриц.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator * (const Matrix &b)const</u><h3></h3>
+<p>Выполняет умножение мтарицы на матрицу.</p>
+
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator * (float n) const</u><h3></h3>
+<p>Выполняет умножение матрицы на число.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> Matrix operator *= (const Matrix&b)</u><h3></h3>
+<p>Выполняет умножение матрицы.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> void transpose()</u><h3></h3>
+<p>Транспонирование.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> void diagonal()</u><h3></h3>
+<p>Создание диагональной матрицы.</p>
+
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> float Determinant_matr1x1()</u><h3></h3>
+<p>Вычисление определителя матрицы 1 порядка.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> float Determinant_matr2x2()</u><h3></h3>
+<p>Вычисление определителя матрицы 2 порядка.</p>
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> float Determinant_matr3x3()</u><h3></h3>
+<p>Вычисление определителя матрицы 3 порядка.</p>
+
+
+<h3><u style="font-family:arial;color:rgb(144, 73, 214);font-size:20px;"> void print()</u><h3></h3>
+<p>Вывод матрицы на экран.</p>
