@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\paul\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\paul\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ChatBot.1301730267.00" t="ExcludeRecursive" />
+    <e p="C:\Users\paul\Desktop\ChatBot" t="IncludeFlat">
+      <e p="ChatBot" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calculator.cs" t="Include" />
+        <e p="ChatBot.csproj" t="IncludeRecursive" />
+        <e p="ChatBotSunny.cs" t="Include" />
+        <e p="ChatBotSunny.Designer.cs" t="Include" />
+        <e p="ChatBotSunny.resx" t="Include" />
+        <e p="Controllers.cs" t="Include" />
+        <e p="Data.cs" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="QuestionWithAnswers.cs" t="Include" />
+        <e p="Skills.cs" t="Include" />
+        <e p="Skills.Designer.cs" t="Include" />
+        <e p="Skills.resx" t="Include" />
+      </e>
+      <e p="ChatBot.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Solution Items" t="Include" />
+    </e>
+  </component>
+</project>

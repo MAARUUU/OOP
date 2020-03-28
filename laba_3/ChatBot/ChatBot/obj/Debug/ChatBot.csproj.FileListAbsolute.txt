@@ -1,0 +1,91 @@
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Form2.resources
+F:\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+F:\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+F:\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.Form1.resources
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.Form2.resources
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+F:\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+C:\Users\Пользователь\Desktop\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+F:\chat\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+F:\chat\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+F:\chat\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+F:\chat\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\paul\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\paul\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\paul\Desktop\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\paul\Desktop\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\Пользователь\Desktop\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Login.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.ChatBotSunny.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.Skills.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_3\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
