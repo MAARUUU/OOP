@@ -5,3 +5,6 @@
 
 
 ![game1](https://user-images.githubusercontent.com/55308441/81375109-77de1e00-9109-11ea-8c7d-da70dd92852e.PNG)
+
+---
+## UML-диаграмма классов:
