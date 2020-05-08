@@ -8,3 +8,5 @@
 
 ---
 ## UML-диаграмма классов:
+
+![labirint_](https://user-images.githubusercontent.com/55308441/81378774-94ca1f80-9110-11ea-955a-b0570922f5f6.png)
