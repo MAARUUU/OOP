@@ -8,3 +8,12 @@ C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.csproj.
 C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.exe
 C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.pdb
 C:\Users\Пользователь\Desktop\Time_1\Time_1\obj\Debug\Time_1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\bin\Debug\Time_1.exe.config
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\bin\Debug\Time_1.exe
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\bin\Debug\Time_1.pdb
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.Form1.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.Properties.Resources.resources
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.exe
+C:\Users\PC\Documents\учеба\ООП\ООП 2 курс\laba_1\Time_1\Time_1\obj\Debug\Time_1.pdb
